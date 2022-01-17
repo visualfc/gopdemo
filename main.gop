@@ -1,0 +1,3 @@
+import "os"
+println "Gop demo"
+println os.Getwd()
